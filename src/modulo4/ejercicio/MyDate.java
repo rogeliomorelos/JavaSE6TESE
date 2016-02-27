@@ -82,6 +82,16 @@ public class MyDate {
         this.day = this.day + moreDays;
     }
     
+    /**
+     * Retorna el nombre del numero del mes
+     * ej. 2 = Febrero;
+     * @return El nombre del mes
+     */
+    public String getNameMonth(){
+        String nameMonth = "";
+        return nameMonth;
+    }
+    
 }
 
 
