@@ -3,9 +3,7 @@
  * @author Roberto Olvera
  */
 
-package modulo3.ejercicios;
-
-import modulo4.ejercicio.*;
+package modulo4.ejercicio;
 
 public class MyDate {
     /**
@@ -83,6 +81,27 @@ public class MyDate {
     public void addDays(int moreDays){
         this.day = this.day + moreDays;
     }
+    
+    /**
+     * Retorna el nombre del numero del mes
+     * ej. 2 = Febrero;
+     * @return El nombre del mes
+     */
+    public String getNameMonth(){
+        String nameMonth = "";
+        return nameMonth;
+    }
+    
+     /**
+     * Retorna el numero de dias en el mes
+     * ej. 2 = Febrero;
+     * @return El numero del mes
+     */
+    public int getDaysMonth(){
+        int nameMonth = 0;
+        return nameMonth;
+    }
+    
     
 }
 

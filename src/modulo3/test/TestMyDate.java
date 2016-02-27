@@ -1,5 +1,5 @@
 package modulo3.test;
-import modulo3.ejercicios.MyDate;
+import modulo4.ejercicio.MyDate;
 /**
  *
  * @author Roberto Olveras
