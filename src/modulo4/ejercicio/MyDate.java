@@ -3,9 +3,7 @@
  * @author Roberto Olvera
  */
 
-package modulo3.ejercicios;
-
-import modulo4.ejercicio.*;
+package modulo4.ejercicio;
 
 public class MyDate {
     /**

@@ -2,7 +2,7 @@
 package modulo4.test;
 
 import java.util.Date;
-import modulo3.ejercicios.MyDate;
+import modulo4.ejercicio.MyDate;
 
 /**
  *

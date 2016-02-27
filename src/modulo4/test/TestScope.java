@@ -1,7 +1,7 @@
 
 package modulo4.test;
 
-import modulo3.ejercicios.MyDate;
+import modulo4.ejercicio.MyDate;
 import modulo4.ejemplos.ScopeExample;
 
 /**
