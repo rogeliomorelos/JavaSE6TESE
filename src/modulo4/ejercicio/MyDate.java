@@ -92,6 +92,17 @@ public class MyDate {
         return nameMonth;
     }
     
+     /**
+     * Retorna el numero de dias en el mes
+     * ej. 2 = Febrero;
+     * @return El numero del mes
+     */
+    public int getDaysMonth(){
+        int nameMonth = 0;
+        return nameMonth;
+    }
+    
+    
 }
 
 

@@ -1,7 +1,7 @@
 
 package modulo4.test;
 
-import java.util.Date;
+import modulo4.ejercicio.MyDate;
 
 /**
  *
@@ -19,5 +19,7 @@ public class TestIf {
             saludo="Buenos Noches";
         }
         System.out.println(saludo);
+        MyDate d = new MyDate(27,2,2017);
+        d.getNameMonth();
     }
 }
